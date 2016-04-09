@@ -1,4 +1,4 @@
-
+ 
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -46,7 +46,7 @@ public class HelloWorld extends HttpServlet {
 		out.println("<!DOCTYPE html>");
 		out.println("<html>");
 		out.println("<head>");
-		out.println("<title>Hello world</title>");
+		out.println("<title>Hello world1</title>");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("Hello World from frisrt servlet");
